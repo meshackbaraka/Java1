@@ -1,2 +1,2 @@
 # Java1
-first java script lesson
+First java script lesson
